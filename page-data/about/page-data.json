@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-pages-about-js","path":"/about/","result":{"pageContext":{}}}
+{"componentChunkName":"component---src-templates-page-template-js","path":"/about/","result":{"data":{"wpgraphql":{"page":{"title":"About This Demo","content":"\n<p>This is a WordPress site that was created specifically to show the process of migrating to <a href=\"https://jamstack.org/\">the Jamstack</a>.</p>\n\n\n\n<p>Isn’t this neat?!</p>\n"}}},"pageContext":{"id":"cGFnZToy"}}}
